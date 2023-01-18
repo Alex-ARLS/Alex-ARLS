@@ -1,4 +1,4 @@
-[![MasterHead](https://retouchingcentral.com/wp-content/uploads/2019/03/matrix-10.gif)](https://github.com/Alex-ARLS)
+[![MasterHead](https://wallpaperaccess.com/full/2825710.gif)](https://github.com/Alex-ARLS)
 <h1 align="center">Hello 👋, I'm Alex Araújo</h1>
 <h3 align="center">I'm a programmer and technology enthusiast.</h3>
 
