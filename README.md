@@ -13,7 +13,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alex_arls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alex_arls" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alex araujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex araujo" height="30" width="40" /></a>
 <a href="https://instagram.com/alex_araujo777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alex_araujo777" height="30" width="40" /></a>
 <a href="https://discord.gg/ALE_x #2244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ALE_x #2244" height="30" width="40" /></a>
 </p>
