@@ -4,9 +4,8 @@
 
 - 🌱 I’m currently learning **CyberSecurity**
 
-- 💬 Ask me about **Java Progaming**
-
-- 📫 How to reach me **8487593125alex@gmail.com**
+- 📫 How to reach me **alexaraujolimads@gmail.com
+**
 
 - ⚡ Fun fact **I'm just a Little Student**
 
