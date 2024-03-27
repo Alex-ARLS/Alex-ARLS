@@ -2,9 +2,9 @@
 <h1 align="center">Hello 👋, I'm Alex Araújo</h1>
 <h3 align="center">I'm a programmer and technology enthusiast.</h3>
 
-- 🌱 I’m currently learning **CyberSecurity**
+- 🌱 I’m currently learning **CyberSecurity & Systems Sevelopment**
 
-- 📫 How to reach me **8487593125alex@gmail.com
+- 📫 How to reach me **alex.silva.705@ufrn.edu.br
 **
 
 - ⚡ Fun fact **I'm just a Little Student**
