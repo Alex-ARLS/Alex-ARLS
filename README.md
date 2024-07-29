@@ -4,7 +4,7 @@
 
 -  I’m currently learning **CyberSecurity & Systems Sevelopment**
 
-- 📫 How to reach me **8487593125alex@gmail.com
+- 📫 How to reach me **alexjobsdev@gmail.com
 **
 
 <h3 align="left">Connect with me:</h3>
